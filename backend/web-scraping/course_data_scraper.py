@@ -97,5 +97,6 @@ def storeCourseData(id,title,credits,faculty,overview,terms,prerequisites=[],cor
 
   #insert resulting dictionary into ISB-Beta/Courses/Course Data as a json file
   Collection.insert_one(data_dict)
-
-dataScapeDriver()
+  
+if __name__ == '__main__':
+    dataScapeDriver()
