@@ -1,0 +1,30 @@
+{
+  "name": "mcgill_courses_api",
+  "version": "1.0.0",
+  "description": "API for Mcgill Courses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio-Na/Mcgill_Courses_API.git"
+  },
+  "author": "Sergio Najm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergio-Na/Mcgill_Courses_API/issues"
+  },
+  "homepage": "https://github.com/Sergio-Na/Mcgill_Courses_API#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
