@@ -86,5 +86,5 @@ students.
 | Database set up                                   | Week of 21st October  |
 | Backend interface set up and synced with database | Week of 28th October  |
 | Web app logic implemented                         | Week of 4th November  |
-| Front-end components built                        | Week of 11th November |
-| Testing and final build of the web app            | Week of 11th November |
+| Front-end components built                        | Week of 18th November |
+| Testing and final build of the web app            | Week of 25th November |
