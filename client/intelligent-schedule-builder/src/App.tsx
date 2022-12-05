@@ -1,5 +1,5 @@
-import TermSchedule from "./components/TermSchedule";
-import AddTermToBoardModal from "./components/AddTermToBoard";
+import TermSchedule from "./components/schedule-board/TermSchedule";
+import AddTermToBoardModal from "./components/schedule-board/AddTermToBoard"
 import useCourseModal from "./hooks/useCourseModal";
 import "./App.css";
 
